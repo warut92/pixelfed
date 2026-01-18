@@ -15,6 +15,6 @@ return [
     'contact'           => 'ติดต่อ',
     'contact-us'        => 'ติดต่อเรา',
     'places'            => 'สถานที่',
-    'profiles'          => 'โพรไฟล์',
+    'profiles'          => 'โปรไฟล์',
 
 ];

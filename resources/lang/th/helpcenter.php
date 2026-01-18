@@ -2,25 +2,25 @@
 
 return [
 
-	'helpcenter' => 'Help Center',
-	'whatsnew' => 'What\'s New',
+	'helpcenter' => 'ศูนย์ช่วยเหลือ',
+	'whatsnew' => 'มีอะไรใหม่',
 
-	'gettingStarted' => 'Getting Started',
-	'sharingMedia' => 'Sharing Media',
-	'profile' => 'Profile',
-	'stories' => 'Stories',
-	'hashtags' => 'Hashtags',
-	'discover' => 'Discover',
-	'directMessages' => 'Direct Messages',
-	'timelines' => 'Timelines',
-	'embed'	=> 'Embed',
+	'gettingStarted' => 'เริ่มต้นใช้งาน',
+	'sharingMedia' => 'การแชร์สื่อ',
+	'profile' => 'โปรไฟล์',
+	'stories' => 'สตอรี่',
+	'hashtags' => 'แฮชแท็ก',
+	'discover' => 'สำรวจ',
+	'directMessages' => 'ข้อความโดยตรง',
+	'timelines' => 'ไทม์ไลน์',
+	'embed'	=> 'ฝัง',
 
-	'communityGuidelines' => 'Community Guidelines',
-	'whatIsTheFediverse' => 'What is the fediverse?',
-	'controllingVisibility' => 'Controlling Visibility',
-	'blockingAccounts' => 'Blocking Accounts',
-	'safetyTips' => 'Safety Tips',
-	'reportSomething' => 'Report Something',
-	'dataPolicy' => 'Data Policy'
+	'communityGuidelines' => 'แนวทางปฏิบัติของชุมชน',
+	'whatIsTheFediverse' => 'Fediverse คืออะไร',
+	'controllingVisibility' => 'การควบคุมการมองเห็น',
+	'blockingAccounts' => 'การบล็อคบัญชี',
+	'safetyTips' => 'เคล็ดลับความปลอดภัย',
+	'reportSomething' => 'การแจ้งรายงาน',
+	'dataPolicy' => 'นโยบายเกี่ยวกับข้อมูล'
 
 ];
